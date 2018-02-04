@@ -4,5 +4,5 @@ function theBeathlesPlay (musicians, instruments) {
     array.push(`${musicians} plays ${instruments}`)
   }
 
-  return array)
+  return array
 }
